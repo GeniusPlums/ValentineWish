@@ -119,7 +119,9 @@ body {
 .six img {
   display: inline-block;
   max-width: 35%;
+  max-height: 300px;
   height: auto;
+  object-fit: contain;
 }
 
 .six .hat {
